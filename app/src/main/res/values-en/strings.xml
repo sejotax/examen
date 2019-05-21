@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">examen</string>
+    <string name="cam">centimeter to meter</string>
+    <string name="fac">fahrenheit to celsius</string>
+    <string name="caf">celsius to fahrenheit</string>
+    <string name="kac">kelvin to celsius</string>
+    <string name="cak">celsius to kelvin</string>
+    <string name="mac">meter a centimeter</string>
+    <string name="pac">inch a centimeter</string>
+    <string name="cap">centimeter a inch</string>
+    <string name="calcular">calculate</string>
+    <string name="resultado">result</string>
+</resources>
